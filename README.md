@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Language Tools<br>
-<a href="www.pyhton.com">Python</a>      
+<a href="www.pyhton.com">Python</a>
+<a href="www.cprograming.com">C</a>
 
